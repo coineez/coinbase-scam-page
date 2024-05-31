@@ -10,4 +10,4 @@ Languages:
 • Python
 • PHP</pre>
 ![image](https://github.com/coineez/coinbase-scam-page/assets/171380107/2642e2da-6676-4692-a086-cd21a2c97d42)
-Purchase: https://t.me/coineez
+<a href="https://t.me/coineez">Click Here To Purchase</a>
